@@ -1,4 +1,4 @@
-//Changing colour of button
+//color changing button
 const button = document.getElementById('cc');
 button.onmouseup = ()=> {
     button.style.backgroundColor = 'yellow';
