@@ -1,0 +1,18 @@
+.colored-element {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    padding: 20px;
+    border: 2px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+#image {
+    width: 200px;
+  }
+  
+#enlarge-button {
+    margin-top: 10px;
+  }
+    
